@@ -1,2 +1,2 @@
 # GitHub-Commit-Graph
- A commit gra
+ A commit graph
